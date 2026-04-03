@@ -209,5 +209,5 @@ __marimo__/
 
 # ADK
 .adk
-.adk/*
-
+.adk/
+/.adk/
